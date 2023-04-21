@@ -1,3 +1,4 @@
-print('300')
-print ('200')
-print ('100')
+a= 25
+b= 35
+sum = a+b
+print (sum)
